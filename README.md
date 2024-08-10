@@ -20,7 +20,7 @@ This project provides sentiment analysis using two methods:
 1. **Install Dependencies**  
    Install the necessary packages for Flask.
 
-2. **Create `app_flask.py`**  
+2. **Create `app.py`**  
    Set up a Python file for the Flask application and sentiment analysis.
 
 3. **Create `templates/index.html`**  
